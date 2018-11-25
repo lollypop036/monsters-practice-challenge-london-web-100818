@@ -5999,6 +5999,27 @@
       "age": 994.3545545377854,
       "description": "Noisome cat singular fainted ululate accursed hideous loathsome. Accursed antiquarian shunned loathsome eldritch squamous immemorial. Blasphemous iridescence loathsome eldritch noisome unutterable immemorial fungus. Unutterable stench madness gibbering eldritch antediluvian unmentionable.",
       "id": 1000
+    },
+    {
+      "name": "beyonce",
+      "age": 40,
+      "description": "Queen!",
+      "id": 1001
+    },
+    {
+      "age": "99",
+      "description": "00",
+      "id": 1002
+    },
+    {
+      "age": "22",
+      "description": "0",
+      "id": 1003
+    },
+    {
+      "age": "3333",
+      "description": "chocolate monster",
+      "id": 1004
     }
   ]
 }
